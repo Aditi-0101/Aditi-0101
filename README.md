@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Aditi 👋
 
-<!--
-**Aditi-0101/Aditi-0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+💻 Exploring Django, AI, and Web Development  
+🌱 Currently learning Open Source & Django REST Framework  
+🚀 Contributor at GSSoC 2026
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C
+- Django
+- Java
+- JavaScript
+- HTML/CSS
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+
+- Open Source Contributions
+- AI + Django Projects
+- Backend Development
+- DSA in Java
+
+## 🚀 Featured Projects
+
+### Padhaimate
+A learning-focused web platform/project.
+
+### Lumo
+A creative web-based project.
+
+### EmotionSpace
+An AI-powered emotional support and confession platform built using Django.
+
+## 📫 Connect With Me
+
+- GitHub: github.com/Aditi-0101
+- LinkedIn: https://www.linkedin.com/in/aditi-agarwal-1718b92b8/
+
+⭐ Always learning, building, and growing through code.
